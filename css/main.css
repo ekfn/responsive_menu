@@ -1,0 +1,13 @@
+/* general */
+
+html {
+  font-family: Arial, sans-serif;
+  font-size: 21px;
+  color: #000;
+  min-width: 320px;
+}
+
+a { color: #08f; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/*  */
